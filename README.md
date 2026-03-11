@@ -1,2 +1,2 @@
 # Eulorian_fluid
-This is a basic Eulorian fluid symulation that usses seidel method (overrelaxetion)
+This is a basic Eulerian fluid simulation that uses Seidel method (over relaxation)
